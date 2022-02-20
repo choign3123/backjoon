@@ -69,5 +69,8 @@
     <ClCompile Include="back15650.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="back1343.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
